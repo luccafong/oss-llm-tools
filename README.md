@@ -1,5 +1,5 @@
 # oss-llm-tools
-OSS LLM Tools for Conversion Eval Numerical Degging and Benchmarking
+OSS LLM Tools for Conversion/Eval/Numerical Degging and Benchmarking
 
 ## lm-eval bisect tools
 
